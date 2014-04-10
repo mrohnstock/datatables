@@ -1,0 +1,38 @@
+{
+    "name": "drmonty-datatables",
+    "description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
+    "homepage": "http://datatables.net",
+    "version": "1.9.4",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://datatables.net/license_bsd"
+        },
+        {
+            "type": "GPLv2",
+            "url": "http://datatables.net/license_gpl2"
+        }
+    ],
+    "main": "js/jquery.dataTables.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drmonty/datatables.git"
+    },
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+    "keywords": [
+        "DataTables",
+        "DataTable",
+        "table",
+        "grid",
+        "filter",
+        "sort",
+        "page",
+        "internationalisable"
+    ]
+}

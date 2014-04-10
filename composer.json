@@ -1,0 +1,51 @@
+{
+    "name": "drmonty/datatables",
+    "description": "DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.",
+    "type": "component",
+    "keywords": [
+        "DataTables",
+        "DataTable",
+        "table",
+        "grid",
+        "filter",
+        "sort",
+        "page",
+        "internationalisable"
+    ],
+    "homepage": "http://www.datatables.net/",
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://datatables.net/license_bsd"
+        },
+        {
+            "type": "GPLv2",
+            "url": "http://datatables.net/license_gpl2"
+        }
+    ],
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "require": {
+        "components/jquery": ">=1.7"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/jquery.dataTables.js"
+            ],
+            "files": [
+                "js/jquery.dataTables.min.js",
+                "images/*.png",
+                "css/*.css"
+            ],
+            "shim": {
+                "deps": ["jquery"]
+            }
+        }
+    }
+}

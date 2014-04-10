@@ -1,0 +1,54 @@
+{
+    "name": "drmonty-datatables",
+    "repo": "drmonty/datatables",
+    "description": "DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.",
+    "version": "1.9.4",
+    "homepage": "http://www.datatables.net/",
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://datatables.net/license_bsd"
+        },
+        {
+            "type": "GPLv2",
+            "url": "http://datatables.net/license_gpl2"
+        }
+    ],
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "keywords": [
+        "DataTables",
+        "DataTable",
+        "table",
+        "grid",
+        "filter",
+        "sort",
+        "page",
+        "internationalisable"
+    ],
+    "dependencies": {
+        "components/jquery": ">=1.7"
+    },
+    "main": "js/jquery.dataTables.js",
+    "scripts": [
+        "js/jquery.dataTables.js"
+    ],
+    "files": [
+        "js/jquery.dataTables.min.js",
+        "images/back_disabled.png",
+        "images/back_enabled.png",
+        "images/back_enabled_hover.png",
+        "images/forward_disabled.png",
+        "images/forward_enabled.png",
+        "images/forward_enabled_hover.png",
+        "images/sort_asc.png",
+        "images/sort_asc_disabled.png",
+        "images/sort_both.png",
+        "images/sort_desc.png",
+        "images/sort_desc_disabled.png",
+        "css/jquery.dataTables.css",
+        "css/jquery.dataTables_themeroller.css"
+    ]
+}
