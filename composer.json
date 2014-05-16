@@ -41,7 +41,7 @@
             "files": [
                 "js/jquery.dataTables.min.js",
                 "images/*.png",
-                "css/*.css"
+                "css/*.min.css"
             ],
             "shim": {
                 "deps": ["jquery"]
