@@ -28,9 +28,7 @@
         "url": "http://sprymedia.co.uk"
     },
     "require": {
-        "robloach/component-installer": "*"
-    },
-    "require": {
+        "robloach/component-installer": "*",
         "components/jquery": ">=1.7"
     },
     "extra": {
