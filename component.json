@@ -2,7 +2,7 @@
     "name": "drmonty-datatables",
     "repo": "drmonty/datatables",
     "description": "DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.",
-    "version": "1.10.7",
+    "version": "1.10.8",
     "homepage": "http://www.datatables.net/",
     "licenses": [
         {
