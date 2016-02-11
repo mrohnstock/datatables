@@ -37,10 +37,28 @@
                 "js/jquery.dataTables.js"
             ],
             "files": [
-                "js/jquery.dataTables.min.js",
-                "images/*.png",
+                "css/dataTables.jqueryui.css",
+                "css/dataTables.bootstrap.css",
+                "css/dataTables.bootstrap.min.css",
+                "css/jquery.dataTables_themeroller.css",
+                "css/dataTables.foundation.css",
+                "css/jquery.dataTables.css",
+                "css/dataTables.foundation.min.css",
                 "css/jquery.dataTables.min.css",
-                "css/jquery.dataTables_themeroller.css"
+                "css/dataTables.jqueryui.min.css",
+                "images/sort_both.png",
+                "images/sort_asc_disabled.png",
+                "images/sort_desc_disabled.png",
+                "images/sort_desc.png",
+                "images/sort_asc.png",
+                "js/dataTables.foundation.min.js",
+                "js/jquery.dataTables.js",
+                "js/dataTables.jqueryui.min.js",
+                "js/jquery.dataTables.min.js",
+                "js/dataTables.foundation.js",
+                "js/dataTables.bootstrap.min.js",
+                "js/dataTables.bootstrap.js",
+                "js/dataTables.jqueryui.js"
             ],
             "shim": {
                 "deps": ["jquery"]

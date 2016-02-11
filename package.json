@@ -20,7 +20,7 @@
     "main": "js/jquery.dataTables.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drmonty/datatables.git"
+        "url": "https://github.com/mrohnstock/datatables.git"
     },
     "dependencies": {
         "jquery": ">=1.7"
